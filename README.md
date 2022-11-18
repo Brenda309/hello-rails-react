@@ -32,7 +32,7 @@ Cloning a repository
 
 - Copy the URL to clone the repository. 
 
-  - To clone the repository using HTTPS : `https://github.com/ElsonOtake/hello-rails-react.git`
+  - To clone the repository using HTTPS : `https://github.com/Brenda309/hello-rails-react.git`
 
   - To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority : `git@github.com:ElsonOtake/hello-rails-react.git`
 
@@ -59,11 +59,11 @@ Cloning a repository
 
 ## Author
 
-👤 **Elson Otake**
+👤 **Brenda Wihogora**
 
-- GitHub: [@elsonotake](https://github.com/elsonotake)
-- Twitter: [@elsonotake](https://twitter.com/elsonotake)
-- LinkedIn: [elsonotake](https://linkedin.com/in/elsonotake)
+- GitHub: [@Brenda309](https://github.com/Brenda309)
+- Twitter: [@Brenda Wihogora](https://twitter.com/BrendaWihogora)
+- LinkedIn: [@Brenda Wihogora](https://linkedin.com/in/Brenda)
 
 ## 🤝 Contributing
 
